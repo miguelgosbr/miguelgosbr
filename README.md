@@ -9,4 +9,4 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📊 Minhas Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=miguelgosbr&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=miguelgosbr&theme=dark)](https://git.io/streak-stats)
